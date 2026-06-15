@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Aniket
 
-<!--
-**001-Long-Fingers/001-Long-Fingers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS-MS Student in India 
+  * Interested in Computer Science, Mathematics, and Physics
+  * Exploring Graph Models, Computational Physics, and Scientific Computing
 
-Here are some ideas to get you started:
+## Current Main Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Interactive Graph Theory Visualizer
+
+  * Graph Visualization
+  * Dijkstra's Algorithm
+  * BFS Visualization
+
+* Computational Physics Laboratory
+
+  * SHM
+  * Projectile Motion
+  * Collisions
+  * Chaotic Systems (WIP)
+
+## Currently Learning
+
+* Graph Algorithms
+* Numerical Methods
+* Dynamical Systems
+* Scientific Computing with Python
+
+## Tools
+
+`Python` • `NumPy` • `Matplotlib` • `NetworkX` • `Tkinter` • `Git`
+
+---
+
+*"Using computation to explore mathematics and physics."*
