@@ -5,31 +5,17 @@ BS-MS Student in India
   * Exploring Graph Models, Computational Physics, and Scientific Computing
 
 ## Current Main Projects
-
 * Interactive Graph Theory Visualizer
-
-  * Graph Visualization
-  * Dijkstra's Algorithm
-  * BFS Visualization
-
 * Computational Physics Laboratory
 
-  * SHM
-  * Projectile Motion
-  * Collisions
-  * Chaotic Systems (WIP)
-
 ## Currently Learning
-
 * Graph Algorithms
 * Numerical Methods
 * Dynamical Systems
 * Scientific Computing with Python
 
 ## Tools
-
 `Python` • `NumPy` • `Matplotlib` • `NetworkX` • `Tkinter` • `Git`
 
 ---
-
 *"Using computation to explore mathematics and physics."*
