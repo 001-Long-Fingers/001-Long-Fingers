@@ -6,7 +6,8 @@ BS-MS Student in India
 
 ## Current Main Projects
 * Interactive Graph Theory Visualizer
-* Computational Physics Laboratory
+* Computational Physics Simulations
+* Numerical Methods Laboratory
 
 ## Currently Learning
 * Graph Algorithms
